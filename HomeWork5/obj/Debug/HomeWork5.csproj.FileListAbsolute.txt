@@ -1,0 +1,8 @@
+C:\Users\PAVILION\source\repos\HomeWork5\bin\Debug\HomeWork5.exe.config
+C:\Users\PAVILION\source\repos\HomeWork5\bin\Debug\HomeWork5.exe
+C:\Users\PAVILION\source\repos\HomeWork5\bin\Debug\HomeWork5.pdb
+C:\Users\PAVILION\source\repos\HomeWork5\obj\Debug\HomeWork5.csproj.AssemblyReference.cache
+C:\Users\PAVILION\source\repos\HomeWork5\obj\Debug\HomeWork5.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAVILION\source\repos\HomeWork5\obj\Debug\HomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION\source\repos\HomeWork5\obj\Debug\HomeWork5.exe
+C:\Users\PAVILION\source\repos\HomeWork5\obj\Debug\HomeWork5.pdb
