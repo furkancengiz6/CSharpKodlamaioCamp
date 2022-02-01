@@ -1,0 +1,36 @@
+﻿using InterfaceAbstractDemo.Abstract;
+using InterfaceAbstractDemo.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace InterfaceAbstractDemo.Concrete
+{
+    
+    public class StarbucksCustomerManager : BaseCustomerManager
+    {
+        private ICustomerCheckService _customerCheckService;
+
+        public StarbucksCustomerManager(ICustomerCheckService customerCheckService)
+        {
+            _customerCheckService = customerCheckService;
+        }
+
+        public override void Save(Customer customer)
+        {
+            //buraya mernis doğrulaması
+            if (_customerCheckService.CheckIfRealPerson(customer))
+            {
+                base.Save(customer);    
+            }
+            else
+            {
+                throw new Exception("A!");
+            }
+            base.Save(customer);//veritabanına kaydeden kod
+        }
+      
+    }
+}
