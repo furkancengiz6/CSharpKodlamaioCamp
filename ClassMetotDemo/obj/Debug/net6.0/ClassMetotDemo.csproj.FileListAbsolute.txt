@@ -1,0 +1,15 @@
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.exe
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.deps.json
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\bin\Debug\net6.0\ref\ClassMetotDemo.dll
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetotDemo.dll
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\PAVILION\source\repos\Kampintro\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.genruntimeconfig.cache
