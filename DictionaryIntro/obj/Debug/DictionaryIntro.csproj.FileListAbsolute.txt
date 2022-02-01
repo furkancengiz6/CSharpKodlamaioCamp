@@ -1,0 +1,8 @@
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\bin\Debug\DictionaryIntro.exe.config
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\bin\Debug\DictionaryIntro.exe
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\bin\Debug\DictionaryIntro.pdb
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\obj\Debug\DictionaryIntro.csproj.AssemblyReference.cache
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\obj\Debug\DictionaryIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\obj\Debug\DictionaryIntro.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\obj\Debug\DictionaryIntro.exe
+C:\Users\PAVILION\source\repos\Kampintro\DictionaryIntro\obj\Debug\DictionaryIntro.pdb
