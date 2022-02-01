@@ -1,8 +1,0 @@
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe.config
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.pdb
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.AssemblyReference.cache
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.SuggestedBindingRedirects.cache
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.exe
-C:\Users\PAVILION\source\repos\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.pdb
